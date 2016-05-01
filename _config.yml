@@ -1,0 +1,28 @@
+name: Silakka
+favicon: null
+layout_spectrum: 0.5012233138550073
+typography_spectrum: 0.030903826002031565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.24773561558686197
+  lightness: 0.5162315515335649
+  saturation: 0.5164280338212848
+  rhythmicContrast: 0.16679495526477695
+purpose: []
