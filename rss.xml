@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Silakka]]></title>
-        <description><![CDATA[Silakka]]></description>
+        <title><![CDATA[Pelastusalus Silakka]]></title>
+        <description><![CDATA[Pelastusalus Silakka]]></description>
         <link>https://thegrid.ai/silakka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 09:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 09:02:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/silakka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nyt myös kirjana]]></title>
+            <description><![CDATA[<article><h1>Nyt myös kirjana</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/23b61f1237162114599134b10e64f322ebb6da2d.jpg"></article>]]></description>
+            <link>http://www.palladiumkirjat.fi/silakka.htm</link>
+            <guid isPermaLink="false">02cb1105-bb6c-44f4-832b-bf20ec7aef99</guid>
+            <pubDate>Mon, 02 May 2016 09:02:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bddec1e-7a3c-43d1-bd2a-318ebba8e006.jpg">]]></description>
