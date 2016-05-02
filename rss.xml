@@ -4,7 +4,7 @@
         <description><![CDATA[Pelastusalus Silakka]]></description>
         <link>https://thegrid.ai/silakka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 09:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 09:39:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/silakka/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nyt myös kirjana]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.palladiumkirjat.fi/silakka.htm</link>
             <guid isPermaLink="false">02cb1105-bb6c-44f4-832b-bf20ec7aef99</guid>
             <pubDate>Mon, 02 May 2016 09:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haastattelu]]></title>
+            <description><![CDATA[<article><h1>Haastattelu</h1><p>Miksi ympäristöongelmat vain lisääntyvät ja Itämeri saastuu? Onko mitään tehtävissä? Suomalaisen yhteiskunnan tuottamista jätteistä rakentamansa katamaraanin kannella näihin kysymyksiin vastaavat aktivisti-taiteilijat Tommi Taipale ja Teemu Takatalo.</p><img src="http://stadi.tv/sites/stadi.tv/files/imagecache/clip_image_preview/clip_image/silakka-still_A.jpg"></article>]]></description>
+            <link>http://stadi.tv/ohjelma/pelastusalus-silakka-kauppatorilla</link>
+            <guid isPermaLink="false">37e6b292-ce97-4881-b1a9-fd2a8fdd3d23</guid>
+            <pubDate>Mon, 02 May 2016 09:38:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tästä se alkoi]]></title>
